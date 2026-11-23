@@ -1,0 +1,5 @@
+# Local Google Drive downloads & the extracted third-party SaynaIDE project.
+# Kept out of git on purpose: large prebuilt binaries (libmemory.so, ~12 MB),
+# redistributable-engine concerns, and the original lives in the user's Drive.
+google_drive/
+saynaide/
