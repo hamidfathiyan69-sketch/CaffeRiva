@@ -3,3 +3,8 @@
 # redistributable-engine concerns, and the original lives in the user's Drive.
 google_drive/
 saynaide/
+
+# Front-end dependencies and generated build output.
+node_modules/
+dist/
+*.tsbuildinfo
